@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kxngHADES
+- 👀 I’m interested in sports
+- 🌱 I’m currently learning c#, sql servers, xamarin, python, c++,HTML, PHP, JavaScrpt, Css
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me on my email brandonmudau2@gmail.com
