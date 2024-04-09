@@ -4,7 +4,7 @@ Yo wassgud I'm Ndaedzo Mudau, a passionate software engineer with a knack for tu
 
 💻 Tech Stack
 
-- Languages: Python, C#, HTML, CSS, Bootstrap, Pascal, Lua, react, Js
+- Languages: Python, C#, HTML, CSS, Bootstrap, Pascal, Lua, react, Js, typescript
 - Frameworks: Xamarin, ASP.NET, Unity, WPF
 - Tools: Visual studio code, visua studio, delphi
 - Databases: mySQL, SQL Servers, SQLite
