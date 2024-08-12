@@ -19,7 +19,6 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
     </a>
 </p>
 
-
 <!-- Languages and Tools -->
 ## Languages and Tools
 <p align="center">
@@ -35,9 +34,6 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
   <img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </p>
 
-<!-- Latest Videos -->
-## Latest Videos
-TBD
 
 <!-- GitHub Stats -->
 ## GitHub Stats
