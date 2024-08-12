@@ -15,7 +15,7 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
     </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+Year+Software+Engineer+Student+@Eduvos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+Year+Software+Engineer+Student+at+Eduvos?height=100)](https://git.io/typing-svg)
 
 
 <!-- Languages and Tools -->
