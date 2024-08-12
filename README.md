@@ -2,6 +2,10 @@
   <h1>Ndaedzo Mudau</h1>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=First+Year!;Software+Engineer+Student!;Certified software developer!;AT EDUVOS FR💘!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Ndaedzo Mudau">
+</p>
+
 ## 🙋🏿‍♂️ About Me
 **`Certified Software Developer😎 / First-Year Software Engineer😊 / Film-Maker`**
 
@@ -14,8 +18,6 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
     </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+Year+Software+Engineer+Student+at+Eduvos?height=100)](https://git.io/typing-svg)
 
 
 <!-- Languages and Tools -->
@@ -30,7 +32,6 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
   <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </p>
 
