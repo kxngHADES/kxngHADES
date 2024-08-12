@@ -1,28 +1,82 @@
-## 👋 Hello World!
+<p align="center">
+  <h1>Ndaedzo Mudau</h1>
+</p>
 
-Yo wassgud I'm Ndaedzo Mudau, a passionate software engineer with a knack for turning ideas into elegant, scalable solutions. My journey in the world of coding began 2018, and since then, I've been on an exciting quest to explore and master the art of crafting high-quality software.
+## 🙋🏿‍♂️ About Me
+**`Certified Software Developer😎 / First-Year Software Engineer😊 / Film-Maker`**
 
-💻 Tech Stack
+I am a first-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
 
-- Languages: Python, C#, HTML, CSS, Bootstrap, Pascal, Lua, react, Js, typescript, c++
-- Frameworks: Xamarin, ASP.NET, Unity, WPF
-- Tools: Visual studio code, visua studio, delphi
-- Databases: mySQL, SQL Servers, SQLite, SMMS
+I am starting a YouTube channel, **"[ProjectMudau]"**, focused on making projects for myself. I view it as a journal for my progress and experiences. I love coding and learning, so this is something I really enjoy. I plan to update this profile in 2025 when I am a second-year student.
 
-🚀 What I Do
+<p align="left">
+    <a href="https://www.youtube.com/@ProjectMudau?sub_confirmation=1">
+        <img alt="Subscribe to ProjectMudau" src="https://ytcard.demolab.com/?id=ProjectMudau" />
+    </a>
+</p>
 
-I specialize in full-stack development, and I'm always eager to dive into new technologies and challenges. From architecting robust systems to optimizing code for performance, I thrive on bringing innovative solutions to the table.
 
-🌱 What I'm Learning
+<!-- Typing Animation -->
+<p align="center">
+  <span id="typing-animation">Learning by building projects</span>
+</p>
+<script>
+  const typingElement = document.getElementById('typing-animation');
+  const text = 'Learning by building projects';
+  let index = 0;
+  
+  function type() {
+    if (index < text.length) {
+      typingElement.textContent += text.charAt(index);
+      index++;
+      setTimeout(type, 100);
+    } else {
+      setTimeout(backspace, 1000);
+    }
+  }
 
-I believe in continuous learning, and currently, I'm exploring Blaze, AI's. Keeping up with industry trends and staying curious is my way of ensuring that I deliver cutting-edge solutions.
+  function backspace() {
+    if (index > 0) {
+      typingElement.textContent = text.slice(0, index - 1);
+      index--;
+      setTimeout(backspace, 50);
+    } else {
+      setTimeout(type, 500);
+    }
+  }
 
-### 🤝 Let's Connect
+  type();
+</script>
 
-I'm open to collaboration, discussions, and learning from the amazing developer community. Feel free to reach out to me for anything, and let's build something great together!
+<!-- Languages and Tools -->
+## Languages and Tools
+<p align="center">
+  <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="left" alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</p>
 
-### 📫 Get in Touch
+<!-- Latest Videos -->
+## Latest Videos
+TBD
 
--email: brandonmudau2@gmail.com
+<!-- GitHub Stats -->
+## GitHub Stats
+![Ndaedzo Mudau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxngHADES&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
 
-Happy coding! 🚀
+<!-- Coding Journey -->
+## My Coding Journey
+<details>
+  <summary>Click to Expand</summary>
+  <p>
+    My journey started with learning the basics of programming through various online resources and projects. Over time, I delved deeper into different languages and frameworks, eventually finding a passion for developing software and systems. Currently, I am focusing on advancing my skills in C# and Python, while working on exciting projects.
+  </p>
+</details>
