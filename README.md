@@ -15,7 +15,7 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 
 <p align="left">
     <a href="https://www.youtube.com/@ProjectMudau?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     </a>
 </p>
 
