@@ -38,12 +38,3 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Ndaedzo Mudau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxngHADES&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
-
-<!-- Coding Journey -->
-## My Coding Journey
-<details>
-  <summary>Click to Expand</summary>
-  <p>
-    My journey started with learning the basics of programming through various online resources and projects. Over time, I delved deeper into different languages and frameworks, eventually finding a passion for developing software and systems. Currently, I am focusing on advancing my skills in C# and Python, while working on exciting projects.
-  </p>
-</details>
