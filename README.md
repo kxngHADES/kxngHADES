@@ -37,4 +37,4 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 ##  
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Ndaedzo Mudau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxngHADES&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
+![Ndaedzo Mudau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxngHADES&show_icons=true&count_private=true&theme=aura)
