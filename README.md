@@ -7,46 +7,16 @@
 
 I am a first-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
 
-I am starting a YouTube channel, **"[ProjectMudau]"**, focused on making projects for myself. I view it as a journal for my progress and experiences. I love coding and learning, so this is something I really enjoy. I plan to update this profile in 2025 when I am a second-year student.
+I am starting a YouTube channel, focused on making projects for myself. I view it as a journal for my progress and experiences. I love coding and learning, so this is something I really enjoy. I plan to update this profile in 2025 when I am a second-year student.
 
 <p align="left">
     <a href="https://www.youtube.com/@ProjectMudau?sub_confirmation=1">
-        <img alt="Subscribe to ProjectMudau" src="https://ytcard.demolab.com/?id=ProjectMudau" />
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
     </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+Year+Software+Engineer+Student+@Eduvos)](https://git.io/typing-svg)
 
-<!-- Typing Animation -->
-<p align="center">
-  <span id="typing-animation">Learning by building projects</span>
-</p>
-<script>
-  const typingElement = document.getElementById('typing-animation');
-  const text = 'Learning by building projects';
-  let index = 0;
-  
-  function type() {
-    if (index < text.length) {
-      typingElement.textContent += text.charAt(index);
-      index++;
-      setTimeout(type, 100);
-    } else {
-      setTimeout(backspace, 1000);
-    }
-  }
-
-  function backspace() {
-    if (index > 0) {
-      typingElement.textContent = text.slice(0, index - 1);
-      index--;
-      setTimeout(backspace, 50);
-    } else {
-      setTimeout(type, 500);
-    }
-  }
-
-  type();
-</script>
 
 <!-- Languages and Tools -->
 ## Languages and Tools
