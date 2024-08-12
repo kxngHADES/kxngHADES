@@ -19,9 +19,9 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
     </a>
 </p>
 
+##  
 <!-- Languages and Tools -->
 ## Languages and Tools
-<p align="center">
   <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -32,9 +32,9 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
   <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-</p>
+<br/>
 
-
+##  
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Ndaedzo Mudau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxngHADES&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true)
