@@ -7,7 +7,7 @@
 </p>
 
 ## 🙋🏿‍♂️ About Me
-**`Certified Software Developer😎 / First-Year Software Engineer😊 / Film-Maker`**
+**`Certified Software Developer😎 / First-Year Software Engineer😊 / Life maker`**
 
 I am a first-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
 
