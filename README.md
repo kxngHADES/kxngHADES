@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=First+Year SIKE second year now!;Software+Engineer+Student!;Certified software developer!;AT EDUVOS FR💘!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Ndaedzo Mudau">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Second+Year YURRR!!!!;Software+Engineer+Student!;Certified software developer!;EDUVOS💙!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Ndaedzo Mudau">
 </p>
 
 ## 🙋🏿‍♂️ About Me
