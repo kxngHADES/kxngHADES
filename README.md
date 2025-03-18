@@ -21,9 +21,8 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 
 ##  
 <!-- Languages and Tools -->
-## Languages and Tools
+## Languages
 
-<!-- Languages -->
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -31,7 +30,8 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br style="clear: left;" />
 
-<!-- Frameworks -->
+## Frameworks
+
 <img align="left" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
@@ -43,7 +43,8 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br style="clear: left;" />
 
-<!-- Tools -->
+## Tools
+
 <img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="SSMS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
@@ -52,20 +53,28 @@ I am starting a YouTube channel, focused on making projects for myself. I view i
 <img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <br style="clear: left;" />
 
-<!-- Technologies -->
+## Technologies
+
 <img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br style="clear: left;" />
 
-<!-- Platforms -->
+## Platforms
+
 <img align="left" alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="PyCharm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <br style="clear: left;" />
 
+## Soft Skills
 
-##  
+- Report Writing
+- Stakeholder/People Management
+- Communication
+- Fast Learner
+- Quick Adapter
+##
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Ndaedzo Mudau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kxngHADES&show_icons=true&count_private=true&theme=aura)
