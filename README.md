@@ -7,9 +7,9 @@
 </p>
 
 ## 🙋🏿‍♂️ About Me
-**`Certified Software Developer😎 / First-Year Software Engineer😊 / Life maker`**
+**`Certified Software Developer😎 / Second-Year Software Engineer😊 / Life maker`**
 
-I am a first-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
+I am a second-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
 
 I am starting a YouTube channel, focused on making projects for myself. I view it as a journal for my progress and experiences. I love coding and learning, so this is something I really enjoy. I plan to update this profile in 2025 when I am a second-year student.
 
