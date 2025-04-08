@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Second+Year YURRR!!!!;Software+Engineer+Student!;Certified software developer!;EDUVOS💙!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Ndaedzo Mudau">
 </p>
 
+<!--This is the ABOUT ME SECTION-->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
@@ -14,17 +15,32 @@
   </h2>
 </div>
 <div align="center">
-**`Certified Software Developer😎 / Second-Year Software Engineer😊 / Life maker`**
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">I'm a passionate developer with expertise in:</h3>
+        <ul>
+          <li>🌐 Full-stack web development with React, Next.js, and Node.js</li>
+          <li>📱 Mobile Application development with Xamarin/Maui, Android studio, React native</li>
+          <li>🤖 Python Automation and API integration</li>
+          <li>🛜 Network security</li>
+          <li>⚙️ embedded systems engineer</li>
+          <li>📊 Data visualization and analytics</li>
+          <li>🎨 UI/UX design with Tailwind CSS and Motion</li>
+        </ul>
+        <p>
+          I'm currenlty doing my second year of software engineering which is also my second qualification
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxngHADES&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180em" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-I am a second-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
 
-I am starting a YouTube channel, focused on making projects for myself. I view it as a journal for my progress and experiences. I love coding and learning, so this is something I really enjoy. I plan to update this profile in 2025 when I am a second-year student.
 
-<p align="left">
-    <a href="https://www.youtube.com/@ProjectMudau?sub_confirmation=1">
-        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    </a>
-</p>
 
 ##  
 <!-- Languages and Tools -->
