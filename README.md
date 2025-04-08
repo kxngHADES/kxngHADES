@@ -6,7 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Second+Year YURRR!!!!;Software+Engineer+Student!;Certified software developer!;EDUVOS💙!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Ndaedzo Mudau">
 </p>
 
-## 🙋🏿‍♂️ About Me
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <b>About Me</b>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  </h2>
+</div>
+<div align="center">
 **`Certified Software Developer😎 / Second-Year Software Engineer😊 / Life maker`**
 
 I am a second-year software engineering student currently studying at Eduvos. I love working on real-world projects, especially for mobile apps, and creating automation projects in Python. I can be quite lazy at times, so automation helps me a lot 😅. 
