@@ -2,9 +2,9 @@
   <h1>Ndaedzo Mudau</h1>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Second+Year YURRR!!!!;Software+Engineer+Student!;Certified software developer!;EDUVOS💙!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Ndaedzo Mudau">
-</p>
+</p>-->
 
 <!--This is the ABOUT ME SECTION-->
 <div align="center">
