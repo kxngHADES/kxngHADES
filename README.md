@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">I'm a passionate developer with expertise in:</h3>
+        <h3 align="center">I'm a developer with experience in:</h3>
         <ul>
           <li>🌐 Full-stack web development with React, Next.js, and Node.js</li>
           <li>📱 Mobile Application development with Xamarin/Maui, Android studio, React native</li>
@@ -27,6 +27,7 @@
           <li>⚙️ embedded systems engineer</li>
           <li>📊 Data visualization and analytics</li>
           <li>🎨 UI/UX design with Tailwind CSS and Motion</li>
+          <li>💻 Windows & Ubuntu Servers</li>
         </ul>
         <p>
           I'm currenlty doing my second year of software engineering which is also my second qualification
