@@ -79,7 +79,7 @@
 
 ## 
 
-<img align="left" alt="AWS" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg)" />
+<img align="left" alt="AWS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <br style="clear: left;" />
