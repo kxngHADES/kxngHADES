@@ -20,7 +20,7 @@
       <td width="50%">
         <h3 align="center">I'm a developer with experience in:</h3>
         <ul>
-          <li>🌐 Full-stack web development with React, Next.js, and Flask</li>
+          <li>🌐 Full-stack web development with, Next.js, Astro, ASP.NET ,Flask and FastAPI</li>
           <li>📱 Mobile Application development with Xamarin/Maui, Android studio, React native</li>
           <li>🤖 Python Automation and API development/integration</li>
           <li>🛜 Network security and engineer</li>
@@ -30,7 +30,7 @@
           <li>💻 Windows, windows server, Ubuntu Servers, Deepin OS, Kali, Parrot OS</li>
         </ul>
         <p>
-          I'm currenlty doing my second year of software engineering which is also my second qualification
+          I'm currenlty doing my <b>FINAL YEAR</b> of BSC IT (Software Engineering)
         </p>
       </td>
       <td width="50%" align="center">
