@@ -34,7 +34,7 @@
         </p>
       </td>
       <td width="50%" align="center">
-        <a href="https://gitfut.com/KxngHADES">
+        <a href="https://gitfut.com/kxngHADES?country=za">
           <img src="https://gitfut.com/KxngHADES.png" alt="My GitFut card" height="400em" />
         </a>
       </td>
