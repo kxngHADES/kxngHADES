@@ -34,7 +34,9 @@
         </p>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxngHADES&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180em" />
+        <a href="https://gitfut.com/KxngHADES">
+          <img src="https://gitfut.com/KxngHADES.png" alt="My GitFut card" height="180em" />
+        </a>
       </td>
     </tr>
   </table>
