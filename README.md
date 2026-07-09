@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Ndaedzo Mudau</h1>
+  <h1>Ndaedzo (Rudzani Brandon) Mudau</h1>
 </p>
 
 <!--<p align="center">
